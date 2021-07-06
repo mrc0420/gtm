@@ -1,0 +1,11 @@
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\bin\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.deps.json
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\bin\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.dll
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\bin\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.pdb
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\obj\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.csprojAssemblyReference.cache
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\obj\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\obj\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.AssemblyInfoInputs.cache
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\obj\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.AssemblyInfo.cs
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\obj\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.dll
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\obj\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.pdb
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\bin\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.runtimeconfig.json
+C:\Users\rahiz.c\source\repos\RegistrationPrototype\Infrastructure.Common\bin\Debug\netcoreapp2.2\RegistrationPrototype.Infrastructure.Common.runtimeconfig.dev.json

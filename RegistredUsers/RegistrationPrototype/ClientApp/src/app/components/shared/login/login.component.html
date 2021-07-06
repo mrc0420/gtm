@@ -1,0 +1,18 @@
+
+
+<div class="loginBox">
+  <h2>Sign In</h2>
+
+  <form name="login_form" (ngSubmit)="submit()">
+
+    <p>E-mail Address</p>
+    <input type="email" name="email" placeholder="e-mail" [(ngModel)]="login.email">
+    <p>Password<p>
+  <input type="Password" name="pword1" placeholder="Create Password" [(ngModel)]="login.password">
+  <input type="Submit" name="sbmt">
+  <span [innerHTML]="validationMessage" *ngIf="validationMessage.length>0"></span>
+<p>Already have an account? <a [routerLink]="['/registration']">Sign Up</a></p>
+  </form>
+</div>
+
+

@@ -1,0 +1,9 @@
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\bin\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.deps.json
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\bin\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.dll
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\bin\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.pdb
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\obj\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\obj\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.AssemblyInfoInputs.cache
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\obj\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.AssemblyInfo.cs
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\obj\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.dll
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\obj\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.pdb
+C:\Users\rahiz.c\source\repos\Registered-Users-master\RegistrationPrototype\RegistrationPrototype.DataAccess.Mongo\obj\Debug\netcoreapp2.2\RegistrationPrototype.DataAccess.Mongo.csprojAssemblyReference.cache

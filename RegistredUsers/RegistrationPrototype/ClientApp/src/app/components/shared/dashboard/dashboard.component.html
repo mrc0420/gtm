@@ -1,0 +1,54 @@
+<!--<div class="form-group">
+  <label>Update Personel D</label>
+  <form name="personel_details_form" (ngSubmit)="submit()">
+    <div>
+      <p>Profile Picture</p>
+      <input type="file" #image accept="image/*" (change)="onImageSelected($event.target.files)" style="display:none" />
+      <button type="button" (click)="image.click()" >Select Profile Picture</button>
+      <img [src]="imageUrl" style="width:90px;height:90px" />
+
+    </div>
+   
+    <p>Affiliation</p>
+    <input type="text" name="affiliation" placeholder="Affiliation" [(ngModel)]="personel.affiliation" />
+    <p>Address</p>
+    <input type="text" name="address" placeholder="Address" [(ngModel)]="personel.Address" />
+    <br />
+    <input type="submit" name="submit" />
+  </form>
+</div>-->
+
+<!--<label>Choose supplementry Files</label>
+<div class="row" style="margin-bottom:15px;">
+  <div class="col-md-3">
+    <input type="file" #file placeholder="Choose file" (change)="uploadFile(file.files)" style="display:none;">
+    <button type="button" class="btn btn-success" (click)="file.click()">Upload File</button>
+  </div>
+  <div class="col-md-4">
+    <span class="upload" *ngIf="progress > 0">
+      {{progress}}%
+    </span>
+    <span class="upload" *ngIf="message">
+      {{message}}
+    </span>
+  </div>
+</div>
+<div class="btnsave">-->
+
+<div class="container">
+  <form [formGroup]="form" (ngSubmit)="submitForm()">
+    <div class="form-group">
+      <input type="file" (change)="uploadFile($event)">
+    </div>
+
+    <div class="form-group input-group-lg">
+      <input class="form-control" placeholder="Affiliation" formControlName="affiliation">
+      <input class="form-control" placeholder="Address" formControlName="address" />
+      <input class="form-control" placeholder="UserId" formControlName="userId" />
+    </div>
+
+    <div class="form-group">
+      <button class="btn btn-danger btn-block btn-lg">Create</button>
+    </div>
+  </form>
+</div>

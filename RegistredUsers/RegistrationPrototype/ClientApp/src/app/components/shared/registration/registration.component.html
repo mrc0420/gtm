@@ -1,0 +1,38 @@
+
+<div class="loginBox">
+  <h2>Sign Up</h2>
+
+  <form name="registration_form" (ngSubmit)="submit()">
+    <p>First Name</p>
+    <input type="text" name="fname" placeholder="Firstname" [(ngModel)]="registration.firstName">
+    <p>Middle Name</p>
+    <input type="text" name="mname" placeholder="Middlename" [(ngModel)]="registration.middleName">
+    <p>Last Name</p>
+    <input type="text" name="lname" placeholder="Lastname" [(ngModel)]="registration.lastName">
+    <p>Phone Number</p>
+    <input type="text" name="number" placeholder="Phonenumber" [(ngModel)]="registration.PhoneNumber">
+    <p>Date Of Birth</p>
+    <input type="date" name="birthDate" [(ngModel)]="registration.birthDate">
+    <p>E-mail Address</p>
+    <input type="email" name="email" placeholder="e-mail" [(ngModel)]="registration.email">
+    <p>Password<p>
+      <input type="Password"
+             name="pword1"
+             placeholder="Create Password"
+             [(ngModel)]="registration.password">
+
+    <p>Confirm Password</p>
+    <input type="password" name="pword2"
+           Placeholder="Confirm Password"
+           (ngModelChange)="isValidateCredential()"
+           [(ngModel)]="registration.confirmPassword">
+
+    <span [innerHTML]="validationMessage" *ngIf="validationMessage.length>0"></span>
+    <input type="Submit" name="sbmt" [disabled]="validationMessage.length === 0">
+
+    <p>Already have an account? <a [routerLink]="['/login']">Sign In</a></p>
+  </form>
+</div>
+
+
+
